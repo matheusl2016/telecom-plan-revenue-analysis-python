@@ -1,4 +1,4 @@
-#Version in English:
+# Version in English:
 
 # 📊 Telecom Customer Behavior Analysis  
 ## EDA of Megaline Prepaid Plans (Surf vs. Ultimate)
@@ -88,7 +88,7 @@ This project demonstrates full EDA workflow: cleaning → feature engineering �
 ---
 
 ---
-#Versão em Português (BR):
+# Versão em Português (BR):
 
 # 📊 Análise de Comportamento dos Clientes Telecom  
 ## EDA dos Planos Pré-Pagos Megaline (Surf vs. Ultimate)
